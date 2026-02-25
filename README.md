@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 ![GitHub Contribution Snake](https://github.com/Eeeeesss/Eeeeesss/blob/output/github-contribution-grid-snake.svg)
 
-(Настрой через https://github.com/Platane/snk — работает автоматически через GitHub Actions)
+<!--(Настрой через https://github.com/Platane/snk — работает автоматически через GitHub Actions) -->
 
 <br/>
 

@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 🏆 Достижения / сертификаты (добавь свои!)
+### 🏆 Достижения / сертификаты
 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring%20Professional-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Professional"/>
@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 <!-- Если iframe поддерживается, можно вставить: -->
 <!-- <iframe src="https://eeeeesss.github.io/threejs-demo/" width="100%" height="400" style="border:none; border-radius:12px; margin:20px 0;" allowfullscreen></iframe> -->
 
-(Покажи это демо — оно сильно выделит тебя среди других разработчиков)
 
 <br/>
 
